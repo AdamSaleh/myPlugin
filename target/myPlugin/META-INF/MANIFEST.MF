@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Built-By: asaleh
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_24
+Extension-Name: myPlugin
+Implementation-Title: myPlugin
+Implementation-Version: 1.0-SNAPSHOT
+Plugin-Class: myPlugin.PluginImpl
+Group-Id: myPlugin
+Short-Name: myPlugin
+Long-Name: Unnamed - myPlugin:myPlugin:hpi:1.0-SNAPSHOT
+Url: http://jenkins-ci.org/plugin/myPlugin
+Plugin-Version: 1.0-SNAPSHOT (private-03/07/2012 14:25-asaleh)
+Hudson-Version: 1.399
+Plugin-Developers: 
+
